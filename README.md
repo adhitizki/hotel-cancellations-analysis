@@ -9,6 +9,8 @@ Repositori ini berisi analisis data Hotel Bookings. Analisis ini dilakukan untuk
   - Numpy
   - Matplotlib
   - Seaborn
+  - Scipy
+  - Statsmodels
 
 ## Analisis
 
